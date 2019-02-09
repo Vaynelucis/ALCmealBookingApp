@@ -1,0 +1,19 @@
+{
+  "name": "alc_with_forloop",
+  "version": "1.0.0",
+  "description": "a simple meal app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaynelucis/ALCmealBookingApp.git"
+  },
+  "author": "vayne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaynelucis/ALCmealBookingApp/issues"
+  },
+  "homepage": "https://github.com/Vaynelucis/ALCmealBookingApp#readme"
+}
